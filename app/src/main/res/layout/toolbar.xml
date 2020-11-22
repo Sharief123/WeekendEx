@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:title="WeekEnd"
+    android:id="@+id/toolBar"
+    android:background="#B9F518"
+    android:layout_height="?attr/actionBarSize">
+
+</androidx.appcompat.widget.Toolbar>

@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">WeekendEx</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="movies_names">
+        <item>SVSC</item>
+        <item>SGS</item>
+        <item>K150</item>
+        <item>GS</item>
+        <item>Duk</item>
+        <item>ASVR</item>
+        <item>JLK</item>
+        <item>CMGR</item>
+    </string-array>
+
+    <string-array name="heros_names">
+        <item>Pawan Kalyan</item>
+        <item>Mahesh Babu</item>
+        <item>Chiru</item>
+        <item>Venkatesh</item>
+        <item>SDT</item>
+        <item>Ram Charan</item>
+        <item>Nagurjan</item>
+        <item>Balakrishna</item>
+        <item>Nikhil</item>
+        <item>Nithin</item>
+        <item>Varun Tej</item>
+        <item>Rana</item>
+        <item>Prabhas</item>
+    </string-array>
+
+    <string-array name="directors">
+        <item>SSR</item>
+        <item>Tirvikram</item>
+        <item>Sukumar</item>
+        <item>VVNayank</item>
+        <item>RGV</item>
+        <item>Puri</item>
+        <item>Harish shankar</item>
+        <item>Venu Sriram</item>
+        <item>Boyapati Srinu</item>
+    </string-array>
+</resources>
